@@ -43,6 +43,6 @@ Final model
 | Customer segments | 8 |
 | Silhouette Score | 0.4+ |
 
-![Uploading Screenshot 2024-12-18 at 09.52.21.png…]()
+<img width="790" alt="Screenshot 2024-12-18 at 09 52 21" src="https://github.com/user-attachments/assets/6acaffef-4a84-4a22-8550-600259551571" />
 
-[View Capstone Poster (PDF)](https://github.com/user-attachments/files/17661654/Capstone.CA3.Poster.pdf)
+[Download Capstone Poster (PDF)](https://github.com/user-attachments/files/17661654/Capstone.CA3.Poster.pdf)
