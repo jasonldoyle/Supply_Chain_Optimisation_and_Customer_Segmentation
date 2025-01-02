@@ -1,6 +1,6 @@
 ### Description
 
-For this project I wanted to enhance the supply chain of a company through identifying late deliveries with Machine Learning and conduct an analysis of the feature importance. I also wanted to conduct customer segmentation and Exploratory Data Analysis to get a better undersanding of the company. This was all apart of my end of year capstone project so a poster (which you can see at the bottom of this ReadMe), 5,500 word written report and slide presentation with commentary are also included.
+For this project I wanted to enhance the supply chain of a company through identifying late deliveries with Machine Learning and conduct an analysis of the feature importance. I also wanted to conduct customer segmentation and Exploratory Data Analysis to get a better undersanding of the company. This was all apart of my end of year capstone project so a poster (which you can see at the bottom of this ReadMe), 5,500 word written report and slides from my presentation are also included.
 
 There were two main goals with this project;
 
@@ -37,7 +37,7 @@ Final model
 - K means clustering
   
 ### **Insights**
-In terms of actionable insights the number 1 action you can take today to drop late deliveries substantially, is increase the estimated delivery time to at least 3 days until the supply chain team can improve the logistics.
+In terms of actionable insights the number 1 action you can take today to drop late deliveries substantially is to increase the estimated delivery time to at least 3 days until the supply chain team can improve the logistics.
 
 I also found that;
 
