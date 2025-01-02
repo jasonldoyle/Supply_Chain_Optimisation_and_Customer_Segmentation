@@ -1,10 +1,14 @@
 ### Description
 
-There are two goals with this project;
+For this project I wanted to enhance the supply chain of a company through identifying late deliveries with Machine Learning and conduct an analysis of the feature importance. I also wanted to conduct customer segmentation and Exploratory Data Analysis to get a better undersanding of the company. This was all apart of my end of year capstone project so a poster (which you can see at the bottom of this ReadMe), 5,500 word written report and slide presentation with commentary are also included.
+
+There were two main goals with this project;
 
 1) To try to use machine learning and exploratory data analysis (EDA) on the current data given by the business, to predict whether an order will arrive late or on time.
 
 2) To try to identify distinct customer segments and explore their characteristics.
+
+3) Provide actionable insights.
 
 ### Dataset
 
@@ -31,8 +35,19 @@ Final model
 
 - XGBoost
 - K means clustering
+  
+### **Insights**
+In terms of actionable insights the number 1 action you can take today to drop late deliveries substantially, is increase the estimated delivery time to at least 3 days until the supply chain team can improve the logistics.
 
-### **Results**
+I also found that;
+
+- Priority areas for logistics to look into is shipping mode, followed by seasonality of orders (shipping date & order date features)
+- I found the shipping mode, days for shipping sheduled two be the two largest contributing features to late deliveries.
+- Cluster 6 is the clear high-value group, with high spending and profitability
+- Clusters 0, 2, and 3 represent low-valuecustomers who could benefit from strategies to increase profitability or minimize costs
+- Cluster 7 shows promise with moderate sales and profitability, making it a potential growth segment
+
+### **Model Results**
 
 | Metric | Value |
 | --- | --- |
