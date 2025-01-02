@@ -1,8 +1,8 @@
 ### Description
 
-For this project I wanted to enhance the supply chain of a company through identifying late deliveries with Machine Learning and conduct an analysis of the feature importance. I also wanted to conduct customer segmentation and Exploratory Data Analysis to get a better undersanding of the company. The notebook is split into three seperate parts. This was all apart of my end of year capstone project so a poster (which you can see at the bottom of this ReadMe), 5,500 word written report and slides from my presentation are also included.
+For this project I wanted to enhance the supply chain of a company through identifying late deliveries with Machine Learning and conduct an analysis of the feature importance. I also wanted to conduct customer segmentation and Exploratory Data Analysis to get a better undersanding of the company. The notebook has been split into three seperate parts (Classification, Clustering and EDA). This was all apart of my final year capstone project so a poster (which you can see at the bottom of this ReadMe), 5,500 word written report and slides from my presentation are also included.
 
-There were two main goals with this project;
+There were three main goals with this project;
 
 1) To try to use machine learning and exploratory data analysis (EDA) on the current data given by the business, to predict whether an order will arrive late or on time.
 
