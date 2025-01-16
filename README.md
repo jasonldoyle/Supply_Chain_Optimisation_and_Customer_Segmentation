@@ -15,6 +15,8 @@
    - [Poster](#poster)
    - [Slides](#slides)
    - [Written Report](#written-report)
+   - [Kaggle](#kaggle)
+
 <a name="headers"/>
  
 # Executive Summary
