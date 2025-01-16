@@ -15,6 +15,8 @@
    - [Poster](#poster)
    - [Slides](#slides)
    - [Written Report](#written-report)
+   - [Kaggle](#kaggle)
+
 <a name="headers"/>
  
 # Executive Summary
@@ -104,4 +106,5 @@ As this was part of my College Capstone project I have the following supporting 
 - #### [Poster](https://github.com/user-attachments/files/17661654/Capstone.CA3.Poster.pdf)
 - #### [Slides](https://github.com/jasonldoyle/Supply_Chain_Optimisation_and_Customer_Segmentation/blob/main/Video_Slides.pdf)
 - #### [Written Report](https://github.com/jasonldoyle/Supply_Chain_Optimisation_and_Customer_Segmentation/blob/main/CA3_Report.docx)
+- #### [Kaggle](https://www.kaggle.com/code/jldoyle/supply-chain-optimisation-customer-segmentation/edit/run/217972083)
 <img width="790" alt="Screenshot 2024-12-18 at 09 52 21" src="https://github.com/user-attachments/assets/6acaffef-4a84-4a22-8550-600259551571" />
